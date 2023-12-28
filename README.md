@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 A current graduate student.
+
+- Currently learning planning and control of autonomous vehicles in **institute of Artificial Intelligence and Robotics, XJTU**
+
+- Sharing some learning experiences in [Raiden's Blog](https://www.zhihu.com/people/scarf-44)
+
